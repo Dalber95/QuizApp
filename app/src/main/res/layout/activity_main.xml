@@ -74,7 +74,7 @@
                 android:layout_marginTop="16dp"
                 android:background="@color/colorPrimary"
                 android:onClick="onBtnStartClick"
-                android:text="Start"
+                android:text="START"
                 android:textColor="@android:color/white"
                 android:textSize="18sp" />
 
